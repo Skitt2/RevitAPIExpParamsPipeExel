@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"C:\RevitAPITrainig\RevitAPIExpParamsPipeExel.dll"</Assembly>
+    <AddInId>C1895834-C041-42D2-A07E-A228D89FA897</AddInId>
+    <FullClassName>RevitAPIExpParamsPipeExel.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Сохрание параметров труб в файл</Text>
+  </AddIn>
+</RevitAddIns>
